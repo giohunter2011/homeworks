@@ -1,53 +1,7 @@
-name='giorgi'
+name = 'giorgi'
+last_name = 'rusishvili'
+age = 13
+adress = 'varketili'
+colore = 'red'
 
-last_name='rusishvili'
-
-age='13'
-
-car='porshe'
-
-food='sea food'
-
-color='blue,black'
-
-print(5+10)
-
-print(10-7)
-
-print(7+9)
-
-print(9+8)
-
-print(5+6)
-
-print(7-2)
-
-print(9+9)
-
-print(5+1)
-
-print(8+2)
-
-print(9+10)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+print(1+5,38*4,4-3,65-65,12+943,21/7,99//9)
